@@ -10,4 +10,4 @@ This app is a Dice App. Tapping on any of the dice generates a random number on 
 
 ## Resultant App:
 
-<img src="screenrecording.gif" height=30% width=30%>
+<img src="screenrecording.gif" height=50% width=50%>
